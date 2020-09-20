@@ -575,6 +575,7 @@ func isToolLibImportPath(imp string) bool {
 		"golang.org/x/tools/go/ast/astutil",
 		"golang.org/x/tools/go/ast/inspector",
 		"golang.org/x/tools/go/cfg",
+		"golang.org/x/tools/go/loader",
 		"golang.org/x/tools/go/gcexportdata",
 		"golang.org/x/tools/go/internal/gcimporter",
 		"golang.org/x/tools/go/ssa",
